@@ -1,0 +1,18 @@
+body{
+	background-color: #5268;
+	font-family: Arial;
+    font-size: 13px;
+}
+
+#container{
+	margin: 150px auto;
+	width: 600px;
+}
+table{
+	background-color: white;
+	text-align:left;
+	width: 100%;
+}
+.img-fluid{
+	width: 60px;
+}
